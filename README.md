@@ -1,1 +1,6 @@
 # RGPV-results-automation
+How to run this...
+clone or download this into your pc then run install.py file to install necessary packages and modules of python or you can do this manually from requirements.txt file.
+now makee a excel sheet just like demo.xlsx with  the enrollment number column.
+and run the RGPVresult.py script.
+And then Enjoy...
